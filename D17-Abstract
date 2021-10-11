@@ -1,0 +1,43 @@
+PROJECT TITLE: CENSUS DUTY
+Project Abstract:
+This project aim is to create user-friendly and reliable application which can efficiently maintain a systematic database for census. 
+This application will be used by government school teachers for census. 
+For census a teacher is given certain number of location that he/she must visit and conduct the census. 
+In a given location he must visit every house and collect the data from each of them. 
+Data which they input will be saved in a database and then government can access that database and publish the detailed result of census.
+
+Detailed Tasks of End User
+Teacher: 
+Here we have only one end user ‘Teacher’ 
+1.A teacher will first insert his/her details. 
+2.Teacher will be uniquely identified by their:
+    a.School id
+    b.Teacher Name
+    c.Designation of Teacher
+3.Teacher will then select the location in which he/she has to conduct the survey. 
+4.A location will be uniquely identified by the given set of parameters 
+    a.location id
+    b.Name of Location
+    c.City 
+    d.District
+5.Now teacher will insert the details house which he/she is visiting for survey.
+6.A house will be uniquely identified by the given set of parameters:
+    a.House Number
+    b.Name of House
+    c.Name of Owner of the House
+    d.Number of members living in House
+7.After he/she Complete the survey of house all the inserted data will be uploaded to database and then the teacher goes to different house and do the same thing.
+8.Once he/she has collected data from all the house he/she will select different location assigned to them and continue the survey again from step 1.
+
+Group – D17 Members
+•Patel Rajkumar Pankajbhai – AM.EN.U4CSE20349
+•Piyush Kumar Panwar – AM.EN.U4CSE20350
+•Rupesh Kumar Tailor – AM.EN.U4CSE20357
+
+
+
+
+	
+
+
+
